@@ -21,7 +21,7 @@ Size: 1069046
 MD5sum: 0f48ca0c065397b5014e8e905b47d50f
 SHA1: 860aaabaebe5234485870f781dfbd130cb7ad99e
 SHA256: 529076f52a2a9510af9605deee7e43fa79148d55ead12027762625522254bb0f
-Section: For Cydia
+Section: Tweaks
 Description: Cydia Download Manager & Extra Features! For iOS 10-11
 Author: Dany020220 
 Name: CyDown
