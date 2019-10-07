@@ -1,7 +1,7 @@
 Package: com.dany020220.localiapstore
 Version: 1.5
 Architecture: iphoneos-arm
-Maintainer: Dany020220 <dany020220@gmail.com>
+Maintainer: Dany020220
 Filename: /LocalIAPStore.deb
 Size: 71170
 MD5sum: adce93b64675706f4a4c4b5204a1e8fe
@@ -9,5 +9,5 @@ SHA1: c9bb6d2749f5d065e9c29a2a39cf233a3a1465d2
 SHA256: 97d20ebc8f9d96da6f4749499be4664d7ab946d469439b7ab04af1e167afaca2
 Section: Tweaks
 Description: Pwns In-app purchases on iOS 5.1.1 or higher (Works with developer servers, in-appstore.com DNS needed). 64bit compatible.
-Author: Dany020220 <dany020220@gmail.com
+Author: Dany020220 
 Name: LocalIAPStore
