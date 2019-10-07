@@ -11,17 +11,3 @@ Section: Tweaks
 Description: Pwns In-app purchases on iOS 5.1.1 or higher (Works with developer servers, in-appstore.com DNS needed). 64bit compatible.
 Author: Dany020220 
 Name: LocalIAPStore
-
-Package: com.dany020220.cydownios10
-Version: 7.0.0
-Architecture: iphoneos-arm
-Maintainer: Dany020220
-Filename: /cydownios10.deb
-Size: 1069046
-MD5sum: 0f48ca0c065397b5014e8e905b47d50f
-SHA1: 860aaabaebe5234485870f781dfbd130cb7ad99e
-SHA256: 529076f52a2a9510af9605deee7e43fa79148d55ead12027762625522254bb0f
-Section: Tweaks
-Description: Cydia Download Manager & Extra Features! For iOS 10-11
-Author: Dany020220 
-Name: CyDown
