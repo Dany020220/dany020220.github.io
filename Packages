@@ -3,6 +3,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Dany020220
 Filename: ./debs/LocalIAPStore.deb
+Depiction: https://dany020220.github.io
 Size: 71170
 MD5sum: adce93b64675706f4a4c4b5204a1e8fe
 Section: Tweaks
